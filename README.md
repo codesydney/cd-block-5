@@ -1,7 +1,7 @@
 ### CD-BLOCK-5 ###
 ## Stripe Payment Gateway Integration ##
 
-Description: This block is one of our payment gateway integration. 
+Description: This block is one of our payment gateway integration modules. 
 
 GitHub Link: https://github.com/codesydney/cd-block-5
 
