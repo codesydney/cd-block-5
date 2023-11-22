@@ -7,7 +7,7 @@ GitHub Link: https://github.com/codesydney/cd-block-5
 
 Block Contributor: [Engramar Bollas](https://au.linkedin.com/in/engramarbollas)
 
-Link to LlamaIndex:<br/> 
+Link to Stripe:<br/> 
 [Stripe Website](https://stripe.com/au)
 
 Screenshots:<br/> 
